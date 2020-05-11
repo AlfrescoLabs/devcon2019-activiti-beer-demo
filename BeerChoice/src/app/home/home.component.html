@@ -1,0 +1,18 @@
+<div class="home-style">
+  <adf-start-process *ngIf="isTheChoosen(); else normalChoice"
+                     [appId]="1503"
+                     [name]="generateRandomName()"
+                     [showSelectProcessDropdown]="false"
+                     (start)="startOrder($event)"
+                     class="start-process-custom" >
+  </adf-start-process>
+  <ng-template #normalChoice>
+      <adf-tasklist class="actual-suggestion"
+                    [assignment]="'involved'"
+                    [state]="'active'"
+                    (row-click)="onTaskClicked($event)">
+      </adf-tasklist>
+      <app-beer-suggestion [taskId]="currentTaskId" class="suggestions-beer">
+      </app-beer-suggestion>
+  </ng-template>
+</div>

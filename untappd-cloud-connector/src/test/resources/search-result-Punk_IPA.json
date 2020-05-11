@@ -1,0 +1,1052 @@
+{
+  "message": "",
+  "time_taken": 0.038,
+  "brewery_id": 0,
+  "search_type": "",
+  "type_id": 0,
+  "search_version": 4,
+  "found": 581,
+  "offset": 0,
+  "limit": 25,
+  "term": "Punk IPA",
+  "parsed_term": "Punk IPA",
+  "beers": {
+    "count": 24,
+    "items": [
+      {
+        "checkin_count": 647559,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 5702,
+          "beer_name": "Punk IPA",
+          "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5702_7d1d7_sm.jpeg",
+          "beer_abv": 5.6,
+          "beer_slug": "brewdog-punk-ipa",
+          "beer_ibu": 35,
+          "beer_description": "Welcome to a post Punk apocalyptic mother fucker of a pale ale.\r\n\r\nA beer that spent its formative years Blitzkrieg bopping around India and the sub continent. Quintessential Empire with an anarchic twist.\r\n\r\nGod save the Queen and all who sail in her. Raising a Stiff Little Finger to IPAs that have come before and those it is yet to meet.\r\n\r\nTurn up the volume Pay the man. Embrace the punked up, fucked up outlaw elite.\r\n\r\nNever Mind the Bollocks this is the real shit.\r\n\r\nMalts:\r\nMarris Otter Extra Pale.\r\n\r\nHops:\r\nChinook, Simcoe, Ahtanum, Nelson Sauvin.",
+          "created_at": "Sat, 21 Aug 2010 14:26:35 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 241,
+          "brewery_name": "BrewDog",
+          "brewery_slug": "brewdog",
+          "brewery_page_url": "/brewdogbrewery",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-241_8c584.jpeg",
+          "country_name": "Scotland",
+          "contact": {
+            "twitter": "BrewDog",
+            "facebook": "http://www.facebook.com/pages/BrewDog/21251598643",
+            "instagram": "brewdogofficial",
+            "url": "http://www.brewdog.com"
+          },
+          "location": {
+            "brewery_city": "Ellon",
+            "brewery_state": "Aberdeenshire",
+            "lat": 57.3716,
+            "lng": -2.04834
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 13373,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 316496,
+          "beer_name": "Dieselpunk India Pale Ale",
+          "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-316496_025b8_sm.jpeg",
+          "beer_abv": 6.9,
+          "beer_slug": "winery-exchange-world-brews-dieselpunk-india-pale-ale",
+          "beer_ibu": 0,
+          "beer_description": "An intriguing, complex Ale with medium-copper color, it is the ultimate expression of an IPA with hearty spice aromas and extreme hop flavors. ",
+          "created_at": "Sun, 24 Feb 2013 01:46:58 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 34528,
+          "brewery_name": "Winery Exchange, World Brews",
+          "brewery_slug": "winery-exchange-world-brews",
+          "brewery_page_url": "/WorldBrews",
+          "brewery_type": "Bar / Restaurant / Store",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-WineryExchangeWorldBrews_34528_77069.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "WineryExchange",
+            "facebook": "http://www.facebook.com/business/dashboard/#/pages/Novato-CA/Winery-Exchange/84718089695",
+            "instagram": "",
+            "url": "http://www.wineryexchange.com/beer.asp"
+          },
+          "location": {
+            "brewery_city": "Novato",
+            "brewery_state": "CA",
+            "lat": 38.074,
+            "lng": -122.543
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 9997,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 1096240,
+          "beer_name": "Whistle Punk Double IPA",
+          "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1096240_63177_sm.jpeg",
+          "beer_abv": 8.2,
+          "beer_slug": "sebago-brewing-company-whistle-punk-double-ipa",
+          "beer_ibu": 92,
+          "beer_description": "Big juicy American hops burst from this Double IPA. Whistle Punk has an abundance of tropical fruit, citrus and pine aroma and flavor from the great hop blend. \n\nAs bitter as a one-armed lumberjack. Expect a huge hop punch and an aromatic blast.  knock it down fresh or give it to someone who will.",
+          "created_at": "Sat, 23 May 2015 08:01:18 +0000",
+          "beer_style": "IPA - Imperial / Double",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 2624,
+          "brewery_name": "Sebago Brewing Company",
+          "brewery_slug": "sebago-brewing-company",
+          "brewery_page_url": "/sebagobrewing",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2624_2b789.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "sebagobrewing",
+            "facebook": "http://www.facebook.com/sebagobrewing",
+            "instagram": "sebagobrewing",
+            "url": "http://www.sebagobrewing.com/"
+          },
+          "location": {
+            "brewery_city": "Gorham",
+            "brewery_state": "ME",
+            "lat": 43.6888,
+            "lng": -70.395
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 6758,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 1134771,
+          "beer_name": "Dieselpunk Double IPA",
+          "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1134771_8d4f3_sm.jpeg",
+          "beer_abv": 8.5,
+          "beer_slug": "winery-exchange-world-brews-dieselpunk-double-ipa",
+          "beer_ibu": 0,
+          "beer_description": "",
+          "created_at": "Mon, 22 Jun 2015 19:50:42 +0000",
+          "beer_style": "IPA - Imperial / Double",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 34528,
+          "brewery_name": "Winery Exchange, World Brews",
+          "brewery_slug": "winery-exchange-world-brews",
+          "brewery_page_url": "/WorldBrews",
+          "brewery_type": "Bar / Restaurant / Store",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-WineryExchangeWorldBrews_34528_77069.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "WineryExchange",
+            "facebook": "http://www.facebook.com/business/dashboard/#/pages/Novato-CA/Winery-Exchange/84718089695",
+            "instagram": "",
+            "url": "http://www.wineryexchange.com/beer.asp"
+          },
+          "location": {
+            "brewery_city": "Novato",
+            "brewery_state": "CA",
+            "lat": 38.074,
+            "lng": -122.543
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 6046,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 261839,
+          "beer_name": "Steam Punk Hoppy American Lager",
+          "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-261839_f3078_sm.jpeg",
+          "beer_abv": 5.4,
+          "beer_slug": "noble-rey-brewing-company-steam-punk-hoppy-american-lager",
+          "beer_ibu": 43,
+          "beer_description": "SteamPunk is our hopped up nod to the classic steam lager/Amber. With robust malt flavor and a satisfying hoppy finish, this beer finishes smooth and easy. \r\n\r\nGrain: 2-Row, Munich 10L, Crystal 40, Aromatic, Chocolate \r\nHops: Northern Brewer, Centenial\r\nYeast: West Coast Ale Omega Yeast Labs ",
+          "created_at": "Sun, 11 Nov 2012 19:58:39 +0000",
+          "beer_style": "Lager - American Amber / Red",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 45011,
+          "brewery_name": "Noble Rey Brewing Company",
+          "brewery_slug": "noble-rey-brewing-company",
+          "brewery_page_url": "/NobleReyBrewingCompany",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-noblereybrewingcompany_45011.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "noblereybrewing",
+            "facebook": "https://www.facebook.com/NobleReyBrewingCompanyLlc?ref=hl",
+            "instagram": "noblereybrewingcompany",
+            "url": "http://www.noblereybrewing.com/"
+          },
+          "location": {
+            "brewery_city": "Dallas",
+            "brewery_state": "TX",
+            "lat": 32.8031,
+            "lng": -96.8416
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 2068,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 51584,
+          "beer_name": "Berwick IPA",
+          "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-_51584_sm_4b751de3cff2b140e83545dab98a0c.jpeg",
+          "beer_abv": 7,
+          "beer_slug": "berwick-brewing-company-berwick-ipa",
+          "beer_ibu": 0,
+          "beer_description": "",
+          "created_at": "Fri, 20 May 2011 21:45:47 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 8114,
+          "brewery_name": "Berwick Brewing Company",
+          "brewery_slug": "berwick-brewing-company",
+          "brewery_page_url": "/BerwickBrewingCompany",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-8114_e2ade.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "BerwickBrewing",
+            "facebook": "http://www.facebook.com/BerwickBrewing",
+            "instagram": "berwickbrewing",
+            "url": "http://www.berwickbrewing.com"
+          },
+          "location": {
+            "brewery_city": "Berwick",
+            "brewery_state": "PA",
+            "lat": 41.052,
+            "lng": -76.2379
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 1369,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 2099553,
+          "beer_name": "Cow Punk IPA",
+          "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2099553_ed969_sm.jpeg",
+          "beer_abv": 6.5,
+          "beer_slug": "everybodys-brewing-cow-punk-ipa",
+          "beer_ibu": 65,
+          "beer_description": "Collaboration with Grains of Wrath Brewing.\r\n\r\nWith pounds of Mandarina Bavaria in the whirlpool, and dry-hopped with Citra and Simcoe, we added tangerine, orange, AND grapefruit zest for an IPA bursting with citrus aroma and flavor!”  Cow Punk has an ABV of 6.5%, and 65 IBUs.",
+          "created_at": "Fri, 19 May 2017 00:30:31 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 2188,
+          "brewery_name": "Everybody's Brewing",
+          "brewery_slug": "everybody-s-brewing",
+          "brewery_page_url": "/EverybodysBrewing",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2188_125a1.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "EverybodysBrew",
+            "facebook": "https://www.facebook.com/pages/Everybodys-Brewing/92644000623",
+            "instagram": "everybodysbrewing",
+            "url": "http://www.everybodysbrewing.com"
+          },
+          "location": {
+            "brewery_city": "White Salmon",
+            "brewery_state": "WA",
+            "lat": 45.7274,
+            "lng": -121.486
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 478,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 1609858,
+          "beer_name": "Atomic Punk IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 6.2,
+          "beer_slug": "gordon-biersch-brewery-restaurant-atomic-punk-ipa",
+          "beer_ibu": 70,
+          "beer_description": "Throwback East coast IPA.",
+          "created_at": "Sun, 19 Jun 2016 22:41:53 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 237672,
+          "brewery_name": "Gordon Biersch Brewery Restaurant",
+          "brewery_slug": "gordon-biersch-brewery-restaurant",
+          "brewery_page_url": "/GordonBierschBreweryRestaurant",
+          "brewery_type": "Brew Pub",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-237672_36fae.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "Gordon_Biersch",
+            "facebook": "https://www.facebook.com/GordonBiersch/",
+            "instagram": "gordonbiersch",
+            "url": "http://gordonbiersch.com/restaurants"
+          },
+          "location": {
+            "brewery_city": "",
+            "brewery_state": "",
+            "lat": 37.3348,
+            "lng": -121.889
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 450,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 2766515,
+          "beer_name": "Punk Rock Time IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 5.8,
+          "beer_slug": "baerlic-brewing-company-punk-rock-time-ipa",
+          "beer_ibu": 0,
+          "beer_description": "A dry California style IPA Tropical Fruity and Piney ",
+          "created_at": "Thu, 26 Jul 2018 09:32:45 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 131535,
+          "brewery_name": "Baerlic Brewing Company",
+          "brewery_slug": "baerlic-brewing-company",
+          "brewery_page_url": "/BaerlicBrewingCo",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-131535_b1f0a.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "baerlicbrewing",
+            "facebook": "https://www.facebook.com/baerlicbrewing",
+            "instagram": "baerlicbrewing",
+            "url": "http://www.baerlicbrewing.com"
+          },
+          "location": {
+            "brewery_city": "Portland",
+            "brewery_state": "OR",
+            "lat": 45.5068,
+            "lng": -122.655
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 368,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 1746241,
+          "beer_name": "Coast To Coast IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 6.4,
+          "beer_slug": "whistle-punk-brewing-coast-to-coast-ipa",
+          "beer_ibu": 55,
+          "beer_description": "IPA made with oats and fermented with our favorite English yeast strain. Generously hopped with Amarillo, Mosaic and Azacca. ",
+          "created_at": "Sat, 24 Sep 2016 05:01:10 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 228282,
+          "brewery_name": "Whistle Punk Brewing",
+          "brewery_slug": "whistle-punk-brewing",
+          "brewery_page_url": "/WhistlePunkBrewing",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-228282_cb2c2.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "whistlepunkbeer",
+            "facebook": "https://www.facebook.com/whistlepunkbeer/",
+            "instagram": "whistlepunkbeer",
+            "url": "http://whistlepunkbrewing.com"
+          },
+          "location": {
+            "brewery_city": "Newman Lake",
+            "brewery_state": "WA",
+            "lat": 47.734,
+            "lng": -117.054
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 294,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 1886297,
+          "beer_name": "Best Friends IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 6,
+          "beer_slug": "scrappy-punk-brewing-best-friends-ipa",
+          "beer_ibu": 60,
+          "beer_description": "A unique IPA featuring a massive dry hop of Mount Hood hops.",
+          "created_at": "Thu, 29 Dec 2016 08:16:26 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 317070,
+          "brewery_name": "Scrappy Punk Brewing",
+          "brewery_slug": "scrappy-punk-brewing",
+          "brewery_page_url": "/scrappypunkbrew",
+          "brewery_type": "Nano Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-317070_13cfb.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "scrappypunkbrew",
+            "facebook": "https://www.facebook.com/scrappypunkbrew/",
+            "instagram": "scrappypunkbrew",
+            "url": "http://scrappypunk.com/"
+          },
+          "location": {
+            "brewery_city": "Snohomish",
+            "brewery_state": "WA",
+            "lat": 47.9141,
+            "lng": -122.08
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 203,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 255766,
+          "beer_name": "Punk Bitch IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 7.2,
+          "beer_slug": "push-brewing-company-punk-bitch-ipa",
+          "beer_ibu": 75,
+          "beer_description": "This is a collaboration between Brew Dog/Flying Dog/ Push",
+          "created_at": "Wed, 31 Oct 2012 22:15:38 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 36431,
+          "brewery_name": "PUSH Brewing Company",
+          "brewery_slug": "push-brewing-company",
+          "brewery_page_url": "/PushBrewingCompany",
+          "brewery_type": "Brew Pub",
+          "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "url": ""
+          },
+          "location": {
+            "brewery_city": "Columbia",
+            "brewery_state": "MD",
+            "lat": 39.1858,
+            "lng": -76.8249
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 200,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 2199496,
+          "beer_name": "Punk In Drublic IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 6.8,
+          "beer_slug": "lompoc-brewing-punk-in-drublic-ipa",
+          "beer_ibu": 0,
+          "beer_description": "",
+          "created_at": "Tue, 18 Jul 2017 07:31:32 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 1629,
+          "brewery_name": "Lompoc Brewing",
+          "brewery_slug": "lompoc-brewing",
+          "brewery_page_url": "/LompocBrewing",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-LompocBrewing_1629.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "lompocbeer",
+            "facebook": "http://www.facebook.com/LompocBrewing?ref=ts",
+            "instagram": "",
+            "url": "http://www.lompocbrewing.com/"
+          },
+          "location": {
+            "brewery_city": "Portland",
+            "brewery_state": "OR",
+            "lat": 45.5344,
+            "lng": -122.699
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 171,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 2674467,
+          "beer_name": "Aussie Punk IPA",
+          "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2674467_cbee0_sm.jpeg",
+          "beer_abv": 5.6,
+          "beer_slug": "batch-brewing-company-aussie-punk-ipa",
+          "beer_ibu": 0,
+          "beer_description": "Look out for our Aussie Punk IPA collab with Brewdog Australia. Their flagship beer was brewed at Batch with Aussie ingredients in collaboration with Brewdog Australia, and we can’t wait to taste it when it’s being released on the world at @beerandbbqfest in Adelaide and Sydney in July. ",
+          "created_at": "Tue, 29 May 2018 10:22:58 +0000",
+          "beer_style": "IPA - International",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 97260,
+          "brewery_name": "Batch Brewing Company",
+          "brewery_slug": "batch-brewing-company",
+          "brewery_page_url": "/BatchBrewingCo",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-97260_ed6c1.jpeg",
+          "country_name": "Australia",
+          "contact": {
+            "twitter": "BatchBrewCo",
+            "facebook": "https://www.facebook.com/pages/Batch-Brewing-Company/492600754155917",
+            "instagram": "batchbrewingcompany",
+            "url": "http://www.batchbrewingco.com.au"
+          },
+          "location": {
+            "brewery_city": "Marrickville",
+            "brewery_state": "NSW",
+            "lat": -33.9119,
+            "lng": 151.165
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 157,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 2372082,
+          "beer_name": "West Coast IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 6.7,
+          "beer_slug": "whistle-punk-brewing-west-coast-ipa",
+          "beer_ibu": 0,
+          "beer_description": "Mosaic, Columbus, and Citra hopped beery goodness!",
+          "created_at": "Sat, 04 Nov 2017 08:52:23 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 228282,
+          "brewery_name": "Whistle Punk Brewing",
+          "brewery_slug": "whistle-punk-brewing",
+          "brewery_page_url": "/WhistlePunkBrewing",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-228282_cb2c2.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "whistlepunkbeer",
+            "facebook": "https://www.facebook.com/whistlepunkbeer/",
+            "instagram": "whistlepunkbeer",
+            "url": "http://whistlepunkbrewing.com"
+          },
+          "location": {
+            "brewery_city": "Newman Lake",
+            "brewery_state": "WA",
+            "lat": 47.734,
+            "lng": -117.054
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 106,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 2702731,
+          "beer_name": "Mango Champagne IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 6.8,
+          "beer_slug": "scrappy-punk-brewing-mango-champagne-ipa",
+          "beer_ibu": 0,
+          "beer_description": "",
+          "created_at": "Sat, 16 Jun 2018 04:07:23 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 317070,
+          "brewery_name": "Scrappy Punk Brewing",
+          "brewery_slug": "scrappy-punk-brewing",
+          "brewery_page_url": "/scrappypunkbrew",
+          "brewery_type": "Nano Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-317070_13cfb.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "scrappypunkbrew",
+            "facebook": "https://www.facebook.com/scrappypunkbrew/",
+            "instagram": "scrappypunkbrew",
+            "url": "http://scrappypunk.com/"
+          },
+          "location": {
+            "brewery_city": "Snohomish",
+            "brewery_state": "WA",
+            "lat": 47.9141,
+            "lng": -122.08
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 89,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 1862287,
+          "beer_name": "IPAhole",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 6.8,
+          "beer_slug": "thorn-st-brewery-ipahole",
+          "beer_ibu": 58,
+          "beer_description": "Thr3e Punk Ales ",
+          "created_at": "Tue, 13 Dec 2016 07:12:16 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 47013,
+          "brewery_name": "Thorn St. Brewery",
+          "brewery_slug": "thorn-st-brewery",
+          "brewery_page_url": "/ThornStBrewery",
+          "brewery_type": "Nano Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-ThornStBrewery_47013.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "url": ""
+          },
+          "location": {
+            "brewery_city": "San Diego",
+            "brewery_state": "CA",
+            "lat": 32.7393,
+            "lng": -117.126
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 88,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 2090347,
+          "beer_name": "Imperial IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 8.8,
+          "beer_slug": "whistle-punk-brewing-imperial-ipa",
+          "beer_ibu": 0,
+          "beer_description": "Imperial IPA brewed with 7lbs Mosaic, Citra and Simcoe per barrel. Citrusy, resinous and full of hops.",
+          "created_at": "Sat, 13 May 2017 03:55:16 +0000",
+          "beer_style": "IPA - Imperial / Double",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 228282,
+          "brewery_name": "Whistle Punk Brewing",
+          "brewery_slug": "whistle-punk-brewing",
+          "brewery_page_url": "/WhistlePunkBrewing",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-228282_cb2c2.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "whistlepunkbeer",
+            "facebook": "https://www.facebook.com/whistlepunkbeer/",
+            "instagram": "whistlepunkbeer",
+            "url": "http://whistlepunkbrewing.com"
+          },
+          "location": {
+            "brewery_city": "Newman Lake",
+            "brewery_state": "WA",
+            "lat": 47.734,
+            "lng": -117.054
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 76,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 1255991,
+          "beer_name": "Citra IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 6.5,
+          "beer_slug": "whistle-punk-brewing-citra-ipa",
+          "beer_ibu": 56,
+          "beer_description": "Low IBU's and excessive late addition hops create a bright, fruity IPA that you won't want to stop drinking. Big peach, pineapple and grapefruit with a super dry finish. Over 4lbs of hops per barrel. ",
+          "created_at": "Wed, 30 Sep 2015 05:44:55 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 228282,
+          "brewery_name": "Whistle Punk Brewing",
+          "brewery_slug": "whistle-punk-brewing",
+          "brewery_page_url": "/WhistlePunkBrewing",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-228282_cb2c2.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "whistlepunkbeer",
+            "facebook": "https://www.facebook.com/whistlepunkbeer/",
+            "instagram": "whistlepunkbeer",
+            "url": "http://whistlepunkbrewing.com"
+          },
+          "location": {
+            "brewery_city": "Newman Lake",
+            "brewery_state": "WA",
+            "lat": 47.734,
+            "lng": -117.054
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 73,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 1771379,
+          "beer_name": "Tropical Yacht Punk IPA",
+          "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1771379_9eb06_sm.jpeg",
+          "beer_abv": 6.3,
+          "beer_slug": "bartlett-brewing-co-bartlett-hall-tropical-yacht-punk-ipa",
+          "beer_ibu": 45,
+          "beer_description": "Hopped with Simoce and Galaxy, brewed with Oats & Torrefied wheat",
+          "created_at": "Tue, 11 Oct 2016 01:02:00 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 139336,
+          "brewery_name": "Bartlett Brewing Co. (Bartlett Hall)",
+          "brewery_slug": "bartlett-brewing-co-bartlett-hall",
+          "brewery_page_url": "/BartlettHall",
+          "brewery_type": "Brew Pub",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-139336_27750.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "BartlettHallSF",
+            "facebook": "https://www.facebook.com/BartlettHallSF",
+            "instagram": "bartlettbrewingco",
+            "url": "http://bartletthallsf.com/"
+          },
+          "location": {
+            "brewery_city": "San Francisco",
+            "brewery_state": "CA",
+            "lat": 37.7864,
+            "lng": -122.409
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 73,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 1560766,
+          "beer_name": "Whistling Frog Patio Season IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 5.5,
+          "beer_slug": "top-frog-brewery-whistling-frog-patio-season-ipa",
+          "beer_ibu": 55,
+          "beer_description": "Bright, juicy, and citrusy.",
+          "created_at": "Thu, 19 May 2016 05:34:03 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 130102,
+          "brewery_name": "Top Frog Brewery",
+          "brewery_slug": "top-frog-brewery",
+          "brewery_page_url": "/w/top-frog-brewery/130102",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-130102_f0f3c.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "url": "www.topfrogbrewery.com"
+          },
+          "location": {
+            "brewery_city": "Newport",
+            "brewery_state": "WA",
+            "lat": 48.1791,
+            "lng": -117.158
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 72,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 2809149,
+          "beer_name": "Galaxy IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 7,
+          "beer_slug": "whistle-punk-brewing-galaxy-ipa",
+          "beer_ibu": 0,
+          "beer_description": "IPA brewed with 100% Galaxy hops and fermented with our favorite English yeast strain. Soft, with notes of ruby red grapefruit, orange and stone fruit.",
+          "created_at": "Wed, 22 Aug 2018 00:10:34 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 228282,
+          "brewery_name": "Whistle Punk Brewing",
+          "brewery_slug": "whistle-punk-brewing",
+          "brewery_page_url": "/WhistlePunkBrewing",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-228282_cb2c2.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "whistlepunkbeer",
+            "facebook": "https://www.facebook.com/whistlepunkbeer/",
+            "instagram": "whistlepunkbeer",
+            "url": "http://whistlepunkbrewing.com"
+          },
+          "location": {
+            "brewery_city": "Newman Lake",
+            "brewery_state": "WA",
+            "lat": 47.734,
+            "lng": -117.054
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 70,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 2576331,
+          "beer_name": "Pineapple Smoothie IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 8.2,
+          "beer_slug": "whistle-punk-brewing-pineapple-smoothie-ipa",
+          "beer_ibu": 0,
+          "beer_description": "",
+          "created_at": "Thu, 29 Mar 2018 07:18:44 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 228282,
+          "brewery_name": "Whistle Punk Brewing",
+          "brewery_slug": "whistle-punk-brewing",
+          "brewery_page_url": "/WhistlePunkBrewing",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-228282_cb2c2.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "whistlepunkbeer",
+            "facebook": "https://www.facebook.com/whistlepunkbeer/",
+            "instagram": "whistlepunkbeer",
+            "url": "http://whistlepunkbrewing.com"
+          },
+          "location": {
+            "brewery_city": "Newman Lake",
+            "brewery_state": "WA",
+            "lat": 47.734,
+            "lng": -117.054
+          },
+          "brewery_active": 1
+        }
+      },
+      {
+        "checkin_count": 70,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 2405600,
+          "beer_name": "Peach Smoothie Imperial IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 8,
+          "beer_slug": "whistle-punk-brewing-peach-smoothie-imperial-ipa",
+          "beer_ibu": 0,
+          "beer_description": "IPA brewed with lactose, vanilla, and peach puree, and then hopped with an irresponsible amount of Mosaic and Citra. Like a smoothie in a glass. *Contains Lactose",
+          "created_at": "Sun, 26 Nov 2017 06:32:24 +0000",
+          "beer_style": "IPA - Imperial / Double",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 228282,
+          "brewery_name": "Whistle Punk Brewing",
+          "brewery_slug": "whistle-punk-brewing",
+          "brewery_page_url": "/WhistlePunkBrewing",
+          "brewery_type": "Micro Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-228282_cb2c2.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "whistlepunkbeer",
+            "facebook": "https://www.facebook.com/whistlepunkbeer/",
+            "instagram": "whistlepunkbeer",
+            "url": "http://whistlepunkbrewing.com"
+          },
+          "location": {
+            "brewery_city": "Newman Lake",
+            "brewery_state": "WA",
+            "lat": 47.734,
+            "lng": -117.054
+          },
+          "brewery_active": 1
+        }
+      }
+    ]
+  },
+  "homebrew": {
+    "count": 1,
+    "items": [
+      {
+        "checkin_count": 320,
+        "have_had": false,
+        "your_count": 0,
+        "beer": {
+          "bid": 973890,
+          "beer_name": "Punk IPA",
+          "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+          "beer_abv": 5.6,
+          "beer_slug": "brooklyn-brew-shop-punk-ipa",
+          "beer_ibu": 0,
+          "beer_description": "In collaboration with BrewDog, the revolutionary Scotland brewery, we've scaled down their celebrated Punk IPA so you can brew it in your home kitchen. Stomping into the room at 5.6% ABV, this golden classic is packed with new world hops, bursts of caramel, tropical fruit notes and a spiky, bitter finish.",
+          "created_at": "Wed, 11 Feb 2015 03:00:26 +0000",
+          "beer_style": "IPA - American",
+          "in_production": 1,
+          "auth_rating": 0,
+          "wish_list": false
+        },
+        "brewery": {
+          "brewery_id": 7918,
+          "brewery_name": "Brooklyn Brew Shop",
+          "brewery_slug": "brooklyn-brew-shop",
+          "brewery_page_url": "/brooklynbrewshophomebrew",
+          "brewery_type": "Home Brewery",
+          "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-7918_d8e29.jpeg",
+          "country_name": "United States",
+          "contact": {
+            "twitter": "bklynbrewshop",
+            "facebook": "http://facebook.com/brooklynbrewshop",
+            "instagram": "brooklynbrewshop",
+            "url": "http://brooklynbrewshop.com"
+          },
+          "location": {
+            "brewery_city": "Brooklyn",
+            "brewery_state": "NY",
+            "lat": 0,
+            "lng": 0
+          },
+          "brewery_active": 1
+        }
+      }
+    ]
+  },
+  "breweries": {
+    "items": [],
+    "count": 0
+  }
+}

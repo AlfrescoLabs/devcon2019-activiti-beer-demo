@@ -1,0 +1,5 @@
+<button mat-raised-button color="accent"
+        [disabled]="!basketToBuy || basketToBuy?.length === 0"
+        (click)="onBuyOrderClick()">
+    BUY
+</button>

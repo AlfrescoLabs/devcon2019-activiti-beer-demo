@@ -1,0 +1,54 @@
+<div>
+  <mat-accordion class="basket-details-suggestion">
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Actually in the Basket
+        </mat-panel-title>
+        <mat-panel-description>
+          What was ordered
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+
+      <div>
+          <app-basket-view [showMode]="true" [taskId]="taskId">
+          </app-basket-view>
+      </div>
+    </mat-expansion-panel>
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Beer List
+        </mat-panel-title>
+        <mat-panel-description>
+          All the beers that you can choose
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+      <div class="show-container">
+        <pre *ngIf="!(beersList$ | async)">
+                loading beers...hmmmm beers
+                <mat-spinner></mat-spinner>
+            </pre>
+        <div class="card-list">
+          <mat-card class="example-card" *ngFor="let beer of beersList$ | async">
+            <mat-card-header>
+              <div mat-card-avatar class="example-header-image"></div>
+              <mat-card-title>{{beer.beer_name}}</mat-card-title>
+              <mat-card-subtitle>{{beer.beer_style}}</mat-card-subtitle>
+            </mat-card-header>
+            <img mat-card-image [src]="beer.beer_label" [alt]="beer.brewery.brewery_name" (error)="beer.beer_label='./assets/beer_image_not_found.jpg'">
+            <mat-card-content>
+              <p>
+                {{beer.beer_description}}
+              </p>
+            </mat-card-content>
+            <mat-card-actions class="mat-card-actions">
+              <button mat-raised-button color="accent" class="action-button-card" (click)="onClickSuggest(beer)">Suggest</button>
+              <button mat-raised-button color="primary" class="action-button-card" (click)="onClickRemove(beer)">REMOVE</button>
+            </mat-card-actions>
+          </mat-card>
+        </div>
+      </div>
+    </mat-expansion-panel>
+  </mat-accordion>
+</div>

@@ -1,0 +1,51 @@
+.home-style {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('/assets/beerBackground.jpg');
+  background-size: 100% auto;
+}
+
+.start-button-beer {
+  width: 180px !important;
+  height: 180px !important;
+  top: 50% !important;
+}
+
+mat-sidenav-content.mat-drawer-content {
+  height: 100% !important;
+}
+
+mat-sidenav-content > div > div {
+  margin-left: unset !important;
+  margin-right: unset !important;
+  height: 100%;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+}
+
+mat-sidenav-content > div {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+app-home {
+  width: 100%;
+}
+
+#cancel_process.mat-button {
+    display: none;
+}
+
+.actual-suggestion {
+  width: 60% !important;
+}
+
+.suggestions-beer {
+  width: 80%;
+  padding: 20px;
+}

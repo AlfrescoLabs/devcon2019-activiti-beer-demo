@@ -1,0 +1,28 @@
+<div *ngIf="!showMode">
+    <button mat-button color="primary" (click)="onClearBasketClick()">Clear Basket</button>
+</div>
+<div class="card-list" *ngIf="basketBeers && basketBeers.length > 0; else empty">
+  <mat-card matBadge="{{getBasketItems(beer)}}"
+            matBadgeColor="warn"
+            matBadgePosition="above after"
+            class="example-card"
+            *ngFor="let beer of basketBeers">
+    <mat-card-header>
+      <div mat-card-avatar class="example-header-image"></div>
+      <mat-card-title>{{beer.beer_name}}</mat-card-title>
+      <mat-card-subtitle>{{beer.beer_style}}</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image [src]="beer.beer_label" [alt]="beer.brewery.brewery_name" (error)="beer.beer_label='./assets/beer_image_not_found.jpg'">
+    <mat-card-content>
+      <p class="card-text">
+        {{beer.beer_description}}
+      </p>
+    </mat-card-content>
+  </mat-card>
+</div>
+
+<ng-template #empty>
+    <h3>
+      No beers in the basket :(
+    </h3>
+</ng-template>

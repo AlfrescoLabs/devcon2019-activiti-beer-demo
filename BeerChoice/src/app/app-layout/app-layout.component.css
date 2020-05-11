@@ -1,0 +1,24 @@
+adf-sidenav-layout {
+    height: 100%;
+}
+
+.menu-button{
+  padding-left: 10px;
+}
+
+.menu-button-basket {
+  display:flex;
+  padding-left: 10px;
+  justify-content: flex-end;
+}
+
+.menu-button-buy {
+  display:flex;
+  padding-left: 10px;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.layout-content {
+  widows: 100%;
+}

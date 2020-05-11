@@ -1,0 +1,12 @@
+{
+  "/alfresco": {
+    "target": "http://adfdev.envalfresco.com",
+    "secure": false,
+    "changeOrigin": true
+  },
+  "/activiti-app": {
+    "target": "http://adfdev.envalfresco.com",
+    "secure": false,
+    "changeOrigin": true
+  }
+}

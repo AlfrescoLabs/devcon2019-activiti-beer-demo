@@ -1,0 +1,36 @@
+.example-card {
+  display: flex;
+  flex-direction: column;
+  flex: 0 15%;
+  margin: 15px;
+  justify-content: space-between;
+}
+
+.mat-card-image {
+  display: flex;
+  align-self: center;
+  max-width: 140px;
+  max-height: 200px;
+}
+
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.example-header-image {
+  background-image: url('/assets/beer_glass.jpg');
+  background-size: cover;
+}
+
+.mat-card-actions{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.action-button-card {
+  width: 100%;
+  margin-bottom: 5px !important;
+}
